@@ -1,150 +1,127 @@
-# Mariene-gis-portfolio
-GIS Projects, Spatial Analysis and Mapping Portfolio by Mariene Mora
-
 # Mariene Mora
 
 ## Geospatial Analysis (GIS) Portfolio
 
-Electrical Engineer with experience in GIS, spatial analysis, multicriteria route selection, mapping, and geospatial data management.
+Electrical Engineer with experience in GIS, spatial analysis, multicriteria route selection, cartography, and geospatial data management.
 
-### About This Project
+---
 
-This portfolio showcases GIS-based transmission line route selection projects developed during my Electrical Engineering studies at Universidad de Los Andes (Venezuela).
+## About This Portfolio
 
-The work involved multicriteria spatial analysis, environmental assessment, engineering constraints, economic evaluation, and optimal route selection using GIS tools.
+This portfolio presents a GIS-based transmission line route selection study developed as part of my Electrical Engineering degree at Universidad de Los Andes (Venezuela).
+
+The project applied multicriteria spatial analysis techniques to identify optimal transmission line routes by integrating environmental, economic, and engineering constraints.
+
+Key components of the analysis included:
+
+* Environmental suitability assessment
+* Economic impact evaluation
+* Engineering feasibility analysis
+* Cost distance modeling
+* Accumulated cost surface generation
+* Route optimization
+* GIS cartography and visualization
 
 ---
 
 ## Technical Skills
 
-- ArcGIS
-- QGIS
-- Spatial Analysis
-- Multicriteria Evaluation (MCE)
-- Cost Distance Analysis
-- Raster Analysis
-- Vector Analysis
-- Cartography
-- Geospatial Data Management
-- Transmission Line Planning
+* ArcGIS
+* QGIS
+* Spatial Analysis
+* Multicriteria Evaluation (MCE)
+* Cost Distance Analysis
+* Raster Analysis
+* Vector Analysis
+* Geospatial Data Management
+* Cartography
+* Transmission Line Planning
 
 ---
 
-## Featured GIS Project
+## Featured Project
 
-### Transmission Line Route Selection
+### Transmission Line Route Selection Using GIS and Multicriteria Analysis
 
-Route selection study using multicriteria analysis for electrical transmission infrastructure.
+This project evaluated alternative transmission line routes using GIS tools and multicriteria decision-making techniques.
 
-#### Analysis Included
+The study integrated:
 
-- Environmental Criteria
-- Economic Criteria
-- Engineering Criteria
-- Cost Surface Generation
-- Accumulated Cost Analysis
-- Final Route Optimization
+* Environmental criteria
+* Economic criteria
+* Engineering criteria
+* Cost surface analysis
+* Route optimization methods
 
-#### Project Outputs
+The resulting analysis identified the most suitable transmission line corridors while minimizing environmental impact, engineering constraints, and overall project costs.
 
-- Environmental Maps
-- Economic Maps
-- Engineering Maps
-- Cost Distance Maps
-- Final Route Maps
-- Technical Documentation
+---
+
+## Thesis Project
+
+### GIS-Based Route Selection Using Multicriteria Analysis
+
+Developed as part of my Electrical Engineering degree at Universidad de Los Andes.
+
+📄 **Full Thesis**
+
+[View Thesis PDF](GIS_Multicriteria_Route_Selection_Thesis.pdf.pdf)
+
+---
+
+## GIS Project Gallery
+
+### Base Map
+
+![Base Map](Maps/Mapas_Base_Ve.png)
+
+### Environmental Criteria Analysis
+
+![Environmental Criteria](Maps/Criterio%20Ambiental%20B%20-%20PL.png)
+
+### Economic Criteria Analysis
+
+![Economic Criteria](Maps/Criterio%20Economico%20B-PL.png)
+
+### Engineering Criteria Analysis
+
+![Engineering Criteria](Maps/Criterio%20ingenieria%20B-PL.png)
+
+### Accumulated Cost Surface
+
+![Accumulated Cost](Maps/Costo%20Acumulado%20B%20-%20PL.png)
+
+### Cost Distance Analysis
+
+![Cost Distance](Maps/Costo%20de%20Distancia%20B%20-%20PL.png)
+
+### Cost Route Analysis
+
+![Cost Route](Maps/Mapa%20de%20costo%20de%20ruta%20Barinas%20-%20Peña%20Larga.png)
+
+### Final Route Selection
+
+![Final Route](Maps/Ruta%20Final%20B%20-%20PL.png)
+
+### Final Route CODE
+
+![Export_Graphic](Maps/Export%20Graphic.png)
 
 ---
 
 ## Education
 
-**Electrical Engineer**  
-Universidad de Los Andes (ULA)  
+**Bachelor of Science in Electrical Engineering**
+Universidad de Los Andes (ULA)
 Mérida, Venezuela
 
 ---
 
 ## Contact
 
-LinkedIn:  
-www.linkedin.com/in/mariene-mora-196a90191
+**LinkedIn**
+[www.linkedin.com/in/mariene-mora-196a90191](http://www.linkedin.com/in/mariene-mora-196a90191)
 
-# GIS Project Gallery
+**Portfolio Website**
+https://marelemovi-ops.github.io/Mariene-gis-portfolio/
 
-## Base Data
-
-### Base Map
-![Base Map](Maps/Mapas_Base_Ve.png)
-
----
-
-## Environmental Analysis
-
-### Environmental Criteria
-![Environmental Criteria](Maps/Criterio%20Ambiental%20B%20-%20PL.png)
-
----
-
-## Economic Analysis
-
-### Economic Criteria
-![Economic Criteria](Maps/Criterio%20Economico%20B-PL.png)
-
----
-
-## Engineering Analysis
-
-### Engineering Criteria
-![Engineering Criteria](Maps/Criterio%20ingenieria%20B-PL.png)
-
----
-
-## Cost Surface Analysis
-
-### Accumulated Cost
-![Accumulated Cost](Maps/Costo%20Acumulado%20B%20-%20PL.png)
-
-### Cost Distance
-![Cost Distance](Maps/Costo%20de%20Distancia%20B%20-%20PL.png)
-
----
-
-## Route Optimization
-
-### Final Route Selection
-![Final Route](Maps/Ruta%20Final%20B%20-%20PL.png)
-
----
-
-## Project Description
-
-This GIS project was developed as part of an Electrical Engineering thesis focused on transmission line route selection using multicriteria evaluation.
-
-The analysis integrated:
-
-- Environmental constraints
-- Economic factors
-- Engineering considerations
-- Cost distance modeling
-- Spatial analysis
-- Route optimization
-
-Tools Used:
-
-- ArcGIS
-- Spatial Analyst
-- Raster Analysis
-- Vector Analysis
-- GIS Cartography
-
-- ## Thesis Project
-
-### GIS-Based Route Selection Using Multicriteria Analysis
-
-This project was developed as part of my Electrical Engineering degree at Universidad de Los Andes (Venezuela).
-
-The study focused on transmission line route selection using GIS tools and multicriteria analysis techniques, integrating environmental, economic, and engineering factors to identify optimal routes.
-
-📄 **Full Thesis**
-
-[View Thesis PDF](GIS_Multicriteria_Route_Selection_Thesis.pdf.pdf)
