@@ -68,3 +68,71 @@ Mérida, Venezuela
 
 LinkedIn:  
 www.linkedin.com/in/mariene-mora-196a90191
+
+# GIS Project Gallery
+
+## Base Data
+
+### Base Map
+![Base Map](Maps/Mapas_Base_Ve.png)
+
+---
+
+## Environmental Analysis
+
+### Environmental Criteria
+![Environmental Criteria](Maps/Criterio%20Ambiental%20B%20-%20PL.png)
+
+---
+
+## Economic Analysis
+
+### Economic Criteria
+![Economic Criteria](Maps/Criterio%20Economico%20B-PL.png)
+
+---
+
+## Engineering Analysis
+
+### Engineering Criteria
+![Engineering Criteria](Maps/Criterio%20ingenieria%20B-PL.png)
+
+---
+
+## Cost Surface Analysis
+
+### Accumulated Cost
+![Accumulated Cost](Maps/Costo%20Acumulado%20B%20-%20PL.png)
+
+### Cost Distance
+![Cost Distance](Maps/Costo%20de%20Distancia%20B%20-%20PL.png)
+
+---
+
+## Route Optimization
+
+### Final Route Selection
+![Final Route](Maps/Ruta%20Final%20B%20-%20PL.png)
+
+---
+
+## Project Description
+
+This GIS project was developed as part of an Electrical Engineering thesis focused on transmission line route selection using multicriteria evaluation.
+
+The analysis integrated:
+
+- Environmental constraints
+- Economic factors
+- Engineering considerations
+- Cost distance modeling
+- Spatial analysis
+- Route optimization
+
+Tools Used:
+
+- ArcGIS
+- Spatial Analyst
+- Raster Analysis
+- Vector Analysis
+- GIS Cartography
