@@ -136,3 +136,15 @@ Tools Used:
 - Raster Analysis
 - Vector Analysis
 - GIS Cartography
+
+- ## Thesis Project
+
+### GIS-Based Route Selection Using Multicriteria Analysis
+
+This project was developed as part of my Electrical Engineering degree at Universidad de Los Andes (Venezuela).
+
+The study focused on transmission line route selection using GIS tools and multicriteria analysis techniques, integrating environmental, economic, and engineering factors to identify optimal routes.
+
+📄 **Full Thesis**
+
+[View Thesis PDF](Maps/GIS_Multicriteria_Route_Selection_Thesis.pdf)
