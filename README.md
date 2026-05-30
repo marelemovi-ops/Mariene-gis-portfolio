@@ -147,4 +147,4 @@ The study focused on transmission line route selection using GIS tools and multi
 
 📄 **Full Thesis**
 
-[View Thesis PDF](Maps/GIS_Multicriteria_Route_Selection_Thesis.pdf)
+[View Thesis PDF](GIS_Multicriteria_Route_Selection_Thesis.pdf.pdf)
